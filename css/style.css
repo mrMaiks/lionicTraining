@@ -825,3 +825,7 @@ body {
   fill: transparent;
   stroke: #3172B9;
 }
+
+.social-link-mail:active svg{
+  left: 5x;
+}
